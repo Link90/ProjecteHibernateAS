@@ -3,6 +3,8 @@ HibernateAS
 
 Práctica AS con Hibernate
 
+Participants: Abel Elbaile Serra, Albert Gazquez Sancho,  Joan Josep Sanchez Aznar, Ivan Sanchez Marcos
+
 ## Requisitos
 - JDK 1.6+
 - Eclipse
